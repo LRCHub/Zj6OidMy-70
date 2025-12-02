@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "SAVIOR OF SONG",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-02T15:02:16.385571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Savior Of Song (feat. My First Story)",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/01_Savior_Of_Song_(feat._My_First_Story)_NANO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG (feat.MY FIRST STORY)",
+      "artist": "Nano, MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/02_SAVIOR_OF_SONG_(feat.MY_FIRST_STORY)_Nano,_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG(feat.MY FIRST STORY)",
+      "artist": "NANO/MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/03_SAVIOR_OF_SONG(feat.MY_FIRST_STORY)_NANO_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG (feat.MY FIRST STORY)",
+      "artist": "nano feat.MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/04_SAVIOR_OF_SONG_(feat.MY_FIRST_STORY)_nano_feat.MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG(feat. MY FIRST STORY)",
+      "artist": "nano feat.MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/05_SAVIOR_OF_SONG(feat._MY_FIRST_STORY)_nano_feat.MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG (feat.MY FIRST STORY)",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/06_SAVIOR_OF_SONG_(feat.MY_FIRST_STORY)_nano.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG",
+      "artist": "ナノ feat. MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/07_SAVIOR_OF_SONG_ナノ_feat._MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/08_SAVIOR_OF_SONG_nano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG(feat. MY FIRST STORY)",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/09_SAVIOR_OF_SONG(feat._MY_FIRST_STORY)_NANO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG (feat.MY FIRST STORY)",
+      "artist": "NANO; MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/10_SAVIOR_OF_SONG_(feat.MY_FIRST_STORY)_NANO;_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG feat. MY FIRST STORY",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/11_SAVIOR_OF_SONG_feat._MY_FIRST_STORY_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG(feat.MY FIRST STORY)",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/12_SAVIOR_OF_SONG(feat.MY_FIRST_STORY)_NANO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/13_SAVIOR_OF_SONG_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "savior of song",
+      "artist": "nano",
+      "has_synced": false,
+      "path": "select/14_savior_of_song_nano.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG",
+      "artist": "ナノ feat. MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/15_SAVIOR_OF_SONG_ナノ_feat._MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Savior of Song (feat. My First Story)",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/16_Savior_of_Song_(feat._My_First_Story)_nano.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG(Novoiski(MOONBUG) Remix)",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/17_SAVIOR_OF_SONG(Novoiski(MOONBUG)_Remix)_NANO.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "SAVIOR OF SONG",
+      "artist": "Nano",
+      "has_synced": true,
+      "path": "select/18_SAVIOR_OF_SONG_Nano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAVIOR OF SONG",
+      "artist": "ナノ feat. MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_SAVIOR_OF_SONG_ナノ_feat._MY_FIRST_STORY.txt"
+    }
+  ]
+}
